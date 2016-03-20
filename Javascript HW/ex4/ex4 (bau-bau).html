@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+     
+    </head>
+    <body>
+<script>
+    var arr = [1,2,3,4,5,6];
+    var person = { age: 20};
+    var dog = {
+    legs : 4,
+    furColor  : "brown",
+    
+    bark : function(){
+       //... 
+       console.log('bau-bau');
+    }
+};
+//dog.bark();
+
+console.log("I call typeof: " + typeof(dog));
+console.log("I call typeof: " + Array.isArray(arr));
+
+document.getElementById("demo").innerHTML =
+person.firstName + " is " + person.age + " years old.";
+</script>
+    
+    </body>
+</html>

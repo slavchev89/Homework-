@@ -1,0 +1,18 @@
+.info {
+    font-size: 18px; color:gray; font-style: italic;
+}
+.title {
+    color: white; text-shadow: 2px 2px 4px #000000;
+}
+.bio {
+   
+    background-color: rgb(240,240,240); font-size: 15px; color: black; padding: 5px; 
+ 
+}
+.text {
+    color: black; font-style: oblique; font-weight: bold;
+    
+}
+.itali {
+     color: black; font-style: italic;
+}

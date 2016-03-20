@@ -1,0 +1,27 @@
+body {
+    padding: 70px;
+    font-size: 15px;
+    font-style: Italic;
+    
+}
+h2 {
+    margin-bottom: 20px;
+    color: #474E69;
+}
+input, textarea{
+    padding: 10px;
+    border: 1px solid #E5E5E5;
+    width: 200px;
+}
+textarea {
+    width: 300px;
+    height: 70px;
+    max-width: 300px;
+}
+.form label{
+    margin-left: 10px;
+    color:#999999;
+}
+
+   
+
